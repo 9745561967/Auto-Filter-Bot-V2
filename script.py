@@ -1,17 +1,17 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ മൂവീസ് ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ</b>"""
 
-You can call this as an Auto Filter Bot if you like :D
 
-This is Version 2 of Auto Filter Bot
 
-Bot gives button link to files in connected channels on query !
 
-No need to add filters for your files or movies from now on!
 
-For more click <i>help</i></b>"""
+
+
+
+
+
 
 
     HELP_MSG = """<b>How to use the bot??</b>
