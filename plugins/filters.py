@@ -62,7 +62,7 @@ async def filter(client: Bot, message: Message):
                 [InlineKeyboardButton(text="📃 Pages 1/1",callback_data="pages")]
             )
             await message.reply_text(
-                f"<b> ഇവിടെ Click 👉 @AM_Tutorial ചെയ്ത് Main ചാനലുകളിൽ Join ചെയ്ത ശേഷം Botton Click ചെയ്യുക Here is the result for {message.text}</b>",
+                f"<b> ഇവിടെ Click 👉 @AM_Tutorial ചെയ്ത് Main ചാനലുകളിൽ Join ചെയ്ത ശേഷം Botton Click ചെയ്യുക. Here is the result for {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )
             return
