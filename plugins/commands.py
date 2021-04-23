@@ -18,7 +18,7 @@ async def start(client, message):
                 [
                     [
                         InlineKeyboardButton("Group", url="https://t.me/AM_chats"),
-                        InlineKeyboardButton("Our Channels", url=https://t.me/Am_links"),
+                        InlineKeyboardButton("Our Channels", url="https://t.me/Am_links"),
                     ],
                     [
                         InlineKeyboardButton(
