@@ -17,12 +17,12 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("HELP", callback_data="help_data"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("Group", url="https://t.me/AM_chats"),
+                        InlineKeyboardButton("Our Channels", url=https://t.me/Am_links"),
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/AM_NewRelease")
                     ]
                 ]
             ),
